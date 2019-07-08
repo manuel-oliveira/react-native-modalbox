@@ -20,7 +20,7 @@ var createReactClass = require('create-react-class');
 
 var BackButton = BackHandler;
 
-var screen = Dimensions.get('window');
+var screen = Dimensions.get('screen');
 
 var styles = StyleSheet.create({
 
